@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Austin Froelich's Site
 
 You can use the [editor on GitHub](https://github.com/austinfroelich/austinfroelich.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
